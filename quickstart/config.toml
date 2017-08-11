@@ -5,15 +5,15 @@ theme = "minimal"
 
 [params]
     author = "Jesse Cochran"
-    description = "Personal blog theme powered by Hugo"
-    githubUsername = "#"
+    description = "Student"
+    githubUsername = "#NaturalFractals"
     accent = "red"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "solarized-dark"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    highlightLanguages = ["go", "java", "kotlin", "Javascript", "python"]
 
 [[menu.main]]
     url = "/"
