@@ -13,7 +13,7 @@ theme = "minimal"
     font = "Raleway" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "solarized-dark"
-    highlightLanguages = ["go", "java", "kotlin", "Javascript", "python"]
+    highlightLanguages = ["Go", "Java", "Kotlin", "JavaScript", "Python"]
 
 [[menu.main]]
     url = "/"
