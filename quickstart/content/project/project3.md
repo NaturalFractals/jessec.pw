@@ -1,6 +1,6 @@
 ---
 title: "Popular Movies App"
-description: "Displays popular movies and allows users to save favorites"
+description: "Displays popular movies and allows users to save favorites in a local database"
 repo: "#" # delete this line if you want blog-like posts for projects
 tags: ["Android", "SQLite3", "Butternknife"]
 weight: 3

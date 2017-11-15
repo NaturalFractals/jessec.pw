@@ -1,8 +1,9 @@
 ---
-title: "Project 4"
-description: "Pellentesque eu lacinia id"
+title: "Augmented Reality App"
+description: "Augmented Reality app build with Google Tango computer vision API. Allows
+the user to navigate to a destination using augmented direction lines."
 repo: "#" # delete this line if you want blog-like posts for projects
-tags: ["highlight-js", "syntax-highlighting"]
+tags: ["Android", "Google Tango", "Place Picker API", "Retrofit"]
 weight: 4
 draft: false
 ---
