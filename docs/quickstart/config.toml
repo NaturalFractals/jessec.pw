@@ -1,7 +1,8 @@
-baseURL = "https://naturalfractals.github.io/jessec.pw/"
+baseURL = "https://naturalfractals.github.io/"
 languageCode = "en-us"
 title = "Jesse Cochran"
 theme = "minimal"
+publishDir = "docs"
 
 [params]
     author = "Jesse Cochran"
